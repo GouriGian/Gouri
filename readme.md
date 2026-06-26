@@ -49,7 +49,7 @@ What you will find here: This GitHub profile is where I publish
 💼Experience with DITA, GitBook, Confluence and Docs-as-Code workflows
 
 
-# Tools
+# Tools & Technologies
 
 **Authoring & CMS**
 - MadCap Flare
@@ -107,4 +107,40 @@ What you will find here: This GitHub profile is where I publish
 - Visio
 - SnagIt
 
+----------------------------------------------
 
+# Recent Professional Experience
+
+### DBSync
+
+Technical Writer and Trainer
+
+- Sole technical writer for an enterprise iPaaS platform
+- Revamped product documentation
+- Created AI-assisted security awareness training
+- Onboarded new team members
+
+### SnapLogic
+
+Senior Technical Writer
+
+- Enterprise documentation
+- DITA migration
+- 20+ customer-facing videos
+- Documentation standards
+- AI-assisted video production
+
+### TIBCO
+
+Technical Writer
+
+- BPM
+- Connectors
+- Mainframe documentation
+- Product videos
+- Agile documentation
+----------------------------------------------
+
+Currently Working On
+
+----------------------------------------------
