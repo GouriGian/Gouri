@@ -40,7 +40,7 @@ Highlights
 
 🏢 20+ years of corporate experience
 
-🎥 Nearly 40 customer-facing technical videos and interactive training assets
+🎥 Over 45 customer-facing technical videos and interactive training assets
 
 🤖 AI-assisted documentation and content workflows
 
