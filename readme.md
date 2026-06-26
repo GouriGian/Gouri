@@ -31,3 +31,17 @@ What you will find here: This GitHub profile is where I publish
 ✔ Docs-as-Code projects
 
 ✔ Learning notes
+
+Highlights
+
+📝 ~10 years in enterprise technical writing
+
+✍️ ~14 years in professional writing and editorial roles
+
+🏢 20+ years of corporate experience
+
+🎥 Nearly 40 customer-facing technical videos and interactive training assets
+
+🤖 AI-assisted documentation and content workflows
+
+☁️ Documentation across SaaS, iPaaS, BPM, ERP, utilities and enterprise integration
