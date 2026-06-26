@@ -1,4 +1,4 @@
-Hi, I'm Gouri Bhagchandani
+Hi, I am Gouri Bhagchandani!
 
 Senior Technical Writer with 14+ years of experience creating enterprise software documentation, training content, and technical videos.
 
