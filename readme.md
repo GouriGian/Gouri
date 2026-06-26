@@ -32,7 +32,7 @@ What you will find here: This GitHub profile is where I publish
 
 ✔ Learning notes
 
-Highlights
+**Highlights**
 
 📝 ~10 years in enterprise technical writing
 
@@ -42,6 +42,67 @@ Highlights
 
 🎥 Over 45 customer-facing technical videos and interactive training assets
 
-🤖 AI-assisted documentation and content workflows
+🤖 AI-assisted documentation and content workflows using Claude, ChatGPT, Gemini and HeyGen
 
 ☁️ Documentation across SaaS, iPaaS, BPM, ERP, utilities and enterprise integration
+
+Experience with DITA, GitBook, Confluence and Docs-as-Code workflows
+
+
+**Tools**
+
+Authoring & CMS
+- MadCap Flare
+- DITA
+- oXygen XML
+- XMetaL
+- FrameMaker
+- RoboHelp
+- Confluence
+- GitBook
+- SDL Tridion Docs
+
+Version Control
+- Git
+- GitHub
+- SVN
+
+Video & Learning
+- Camtasia
+- Captivate
+- Oracle UPK
+- uPerform
+- OBS Studio
+- Hexus
+
+AI
+- Claude
+- ChatGPT
+- Gemini
+- Copilot
+- DeepSeek
+- Grok
+- Perplexity
+- Grammarly AI
+- HeyGen
+- ElevenLabs
+- NaturalReader
+- Whisper Web
+- Veed AI
+- Turboscribe
+- Otter.ai
+- Krisp
+
+Project & Collaboration
+- Jira
+- SharePoint
+- Slack
+- Zoom
+- Google Workspace
+
+Design
+- Photoshop
+- Illustrator
+- Premiere Pro
+- Visio
+- SnagIt
