@@ -32,7 +32,7 @@ What you will find here: This GitHub profile is where I publish
 
 ✔ Learning notes
 
-**Highlights**
+#Highlights
 
 📝 ~10 years in enterprise technical writing
 
@@ -46,12 +46,12 @@ What you will find here: This GitHub profile is where I publish
 
 ☁️ Documentation across SaaS, iPaaS, BPM, ERP, utilities and enterprise integration
 
-Experience with DITA, GitBook, Confluence and Docs-as-Code workflows
+💼Experience with DITA, GitBook, Confluence and Docs-as-Code workflows
 
 
-**Tools**
+#Tools
 
-Authoring & CMS
+**Authoring & CMS**
 - MadCap Flare
 - DITA
 - oXygen XML
@@ -62,12 +62,12 @@ Authoring & CMS
 - GitBook
 - SDL Tridion Docs
 
-Version Control
+**Version Control**
 - Git
 - GitHub
 - SVN
 
-Video & Learning
+**Video & Learning**
 - Camtasia
 - Captivate
 - Oracle UPK
@@ -75,7 +75,7 @@ Video & Learning
 - OBS Studio
 - Hexus
 
-AI
+**AI**
 - Claude
 - ChatGPT
 - Gemini
@@ -93,16 +93,18 @@ AI
 - Otter.ai
 - Krisp
 
-Project & Collaboration
+**Project & Collaboration**
 - Jira
 - SharePoint
 - Slack
 - Zoom
 - Google Workspace
 
-Design
+**Design**
 - Photoshop
 - Illustrator
 - Premiere Pro
 - Visio
 - SnagIt
+
+
