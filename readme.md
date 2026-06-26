@@ -32,7 +32,7 @@ What you will find here: This GitHub profile is where I publish
 
 ✔ Learning notes
 
-#Highlights
+# Highlights
 
 📝 ~10 years in enterprise technical writing
 
@@ -49,7 +49,7 @@ What you will find here: This GitHub profile is where I publish
 💼Experience with DITA, GitBook, Confluence and Docs-as-Code workflows
 
 
-#Tools
+# Tools
 
 **Authoring & CMS**
 - MadCap Flare
