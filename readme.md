@@ -13,3 +13,21 @@ I simplify complex products through clear documentation, videos, and AI-assisted
 📄 Resume
 
 💼 LinkedIn
+
+What you will find here: This GitHub profile is where I publish
+
+✔ Documentation samples
+
+✔ Documentation case studies
+
+✔ Product walkthroughs
+
+✔ Release notes
+
+✔ Technical videos
+
+✔ AI documentation experiments
+
+✔ Docs-as-Code projects
+
+✔ Learning notes
