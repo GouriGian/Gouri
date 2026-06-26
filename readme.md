@@ -1,20 +1,23 @@
-Hi, I am Gouri Bhagchandani!
+# Hi, I'm Gouri Bhagchandani 👋
 
-Senior Technical Writer with 10+ years of experience creating enterprise software documentation, training content, and technical videos.
-
-I simplify complex products through clear documentation, videos, and AI-assisted content workflows.
+I help users understand and adopt complex enterprise software through clear documentation, training content, technical videos, and AI-assisted content workflows.
 
 ------------------------------------------------
 
-# 👉 Start Here
+## 👉 Start Here
 
-📚 **Technical Writing Portfolio**
+📚 **Technical Writing Portfolio** *(Work in Progress)*
+[View Portfolio](...)
 
-📄 Resume
+📄 **Resume**
+[Download Resume](...)
 
-💼 LinkedIn
+💼 **LinkedIn**
+[Connect on LinkedIn](...)
 
-📧 Contact
+📧 Email
+
+📍 India
 
 # What you will find here 
 
@@ -36,13 +39,16 @@ This GitHub profile is where I publish:
 
 ✔ Learning notes
 
+# About Me
+
+
 # Highlights
 
 📝 ~10 years in enterprise technical writing
 
 ✍️ ~14 years in professional writing and editorial roles
 
-🏢 20+ years of corporate experience
+🏢 20+ years of cross-functional corporate experience
 
 🎥 Over 45 customer-facing technical videos and interactive training assets
 
