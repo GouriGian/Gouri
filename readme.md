@@ -7,10 +7,10 @@ I help users understand and adopt complex enterprise software through clear docu
 ## 👉 Start Here
 
 📚 **Technical Writing Portfolio** *(Work in Progress)*
-[View Portfolio](...)
+[View Portfolio](...) ➡️ Coming soon
 
 📄 **Resume**
-[Download Resume](...)
+[Download Resume](...) ➡️ Coming soon
 
 💼 **LinkedIn**
 [Connect on LinkedIn](...)
@@ -40,7 +40,7 @@ This GitHub profile is where I publish:
 ✔ Learning notes
 
 # About Me
-
+I enjoy making complex software easier to understand through documentation, videos, and structured learning content. Throughout my career, I've collaborated with product managers, developers, QA engineers, SMEs, and customer success teams to create documentation that improves product adoption and user success. This GitHub profile is where I share examples of my work, experiments, and continued learning.
 
 # Highlights
 
